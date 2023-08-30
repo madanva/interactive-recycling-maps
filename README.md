@@ -1,0 +1,1 @@
+In this repository, I created an interactive recycling map in which people can track the major recycling locations in the United Kingdom, Canada, Germany, and France. Data is from ENF recycling, blank map interface is from Leaflet, and hosting is from shinyapps.io.
