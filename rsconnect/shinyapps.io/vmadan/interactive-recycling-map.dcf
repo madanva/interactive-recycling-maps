@@ -1,0 +1,12 @@
+name: interactive-recycling-map
+title: interactive-recycling-map
+username: vmadan
+account: vmadan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9722160
+bundleId: 7626924
+url: https://vmadan.shinyapps.io/interactive-recycling-map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
